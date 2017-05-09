@@ -1,0 +1,9 @@
+Building cicciolinacoin
+
+See doc/readme-qt.rst for instructions on building cicciolinacoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of cicciolinacoin.
+
+See doc/build-*.txt for instructions on building cicciolinacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of cicciolinacoin.
